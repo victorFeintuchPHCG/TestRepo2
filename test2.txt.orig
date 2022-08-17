@@ -1,0 +1,9 @@
+hi 
+
+Hi from Master
+His From Conflict
+ hello2 
+<<<<<<< HEAD
+=======
+ hello2 
+>>>>>>> MMM
